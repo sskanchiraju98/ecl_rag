@@ -103,7 +103,7 @@ def data_querying(question):
     return response_text
 
 
-st.title("Test PGM RAG GPT-4")
+st.title("ECL RAG")
 
 # Initialize chat history if not already in session state
 if "messages" not in st.session_state:
