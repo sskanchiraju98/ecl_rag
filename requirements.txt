@@ -1,0 +1,16 @@
+
+pypdf
+cohere
+tiktoken
+sentence_transformers
+openai
+langchain-google-genai
+pillow
+langchain-pinecone
+langchain-openai
+langchain
+gradio
+pgmpy
+streamlit
+pgmpy
+numpy
