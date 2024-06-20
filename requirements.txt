@@ -14,3 +14,4 @@ pgmpy
 streamlit
 pgmpy
 numpy
+langchain-community
